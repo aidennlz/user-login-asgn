@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  background-color: aqua;
+}
+
+div {
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+  margin: 25px auto;
+  width: 400px;
+  border-radius: 10px;
+}
+
+button {
+  background-color: aqua;
+  width: 200px auto;
+}
+
+button:hover {
+  background-color: white;
+}
